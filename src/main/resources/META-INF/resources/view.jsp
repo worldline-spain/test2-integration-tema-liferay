@@ -5,6 +5,9 @@
 
 <div id="<portlet:namespace />"></div>
 
+<base href="/">
+
+
 <aui:script require="test2-integracion-tema@1.0.0">
 	test2IntegracionTema100.default('#<portlet:namespace />');
 </aui:script>
